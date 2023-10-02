@@ -10,13 +10,13 @@
   width: 481px;
   height: 481px;
   background-image: url("images/snowboard.jpg");
-  background-position: 56.77% 50%;
+  background-position: 59.09% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 1;
-  margin: 158px 0 0 auto;
+  margin: 82px -39px 0 auto;
 }
 
 .u-section-1 .u-group-1 {
@@ -27,7 +27,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 0.3;
-  margin: -317px auto 0;
+  margin: -240px auto 0;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -132,12 +132,13 @@
   .u-section-1 .u-image-1 {
     width: 340px;
     height: 340px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-group-1 {
     width: 340px;
     height: 340px;
-    margin-top: -176px;
+    margin-top: -99px;
   }
 
   .u-section-1 .u-container-layout-1 {
