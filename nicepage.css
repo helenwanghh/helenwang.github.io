@@ -41627,21 +41627,19 @@ a.u-link.u-text-hover-grey-90:hover {
   white-space: nowrap;
   height: 32px;
   min-height: 16px;
-  width: 116px;
-  min-width: 68px;
+  width: 74px;
+  min-width: 42px;
   margin: 46px 0 21px auto;
 }
 
 .u-header .u-icon-1 {
-  color: rgb(59, 89, 152) !important;
+  height: 100%;
+  color: rgb(0, 122, 185) !important;
 }
 
 .u-header .u-icon-2 {
-  color: rgb(85, 172, 238) !important;
-}
-
-.u-header .u-icon-3 {
-  color: rgb(197, 54, 164) !important;
+  height: 100%;
+  color: rgb(219, 83, 75) !important;
 }
 .u-header .u-sheet-2 {
   min-height: 99px;
@@ -41762,14 +41760,14 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-text-1 {
   font-size: 2.25rem;
-  margin: 0 calc(((100% - 1140px) / 2) + 40px) 0 calc(((100% - 1140px) / 2) + 469px);
+  margin: 0 calc(((100% - 1140px) / 2) + 34px) 0 calc(((100% - 1140px) / 2) + 475px);
 }
 
 .u-footer .u-social-icons-1 {
   height: 40px;
   min-height: 16px;
-  width: 140px;
-  min-width: 68px;
+  width: 90px;
+  min-width: 42px;
   white-space: nowrap;
   margin: -48px calc(((100% - 1140px) / 2) + -11px) 0 auto;
 }
@@ -41781,10 +41779,6 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-icon-2 {
   height: 100%;
   color: rgb(219, 83, 75) !important;
-}
-
-.u-footer .u-icon-3 {
-  color: rgb(197, 54, 164) !important;
 }
 
 .u-footer .u-image-1 {
@@ -41805,7 +41799,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-social-icons-1 {
-    width: 140px;
     margin-right: calc(((100% - 1140px) / 2) + 100px);
   }
 
