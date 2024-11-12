@@ -258,7 +258,11 @@
   --animation-custom_in-scale: 1;
   font-size: 1.875rem;
   font-weight: 700;
+<<<<<<< HEAD
   margin: 0 5px 0 26px;
+=======
+  margin: 114px 5px 0 26px;
+>>>>>>> 77a2cc184da70248e62c6b7448403b7c55e15d03
 }
 
 .u-section-2 .u-layout-cell-2 {
